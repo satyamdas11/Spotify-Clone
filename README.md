@@ -9,11 +9,10 @@ A static frontend clone of the Spotify Web Player built with HTML and CSS. This 
 - Clean, organized file structure
 - No JavaScript — purely HTML and CSS
 
-## Demo
-[Live Demo](#) — *(add GitHub Pages link if you deploy it)*
+
 
 ## Screenshots
-*(You can upload and insert screenshots here)*
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/ca71a38c-9c02-4ac5-8470-1ed1cbf2504b" />
 
 ## Technologies
 - HTML5
